@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Bewertung-4.9/5-C2185B?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-1A1A1A?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Plattform-Windows%20%7C%20Linux%20%7C%20Steam%20Deck-C2185B?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Typ-Spiel-Datei-Setup-C2185B?style=for-the-badge&logo=nintendo" />
 </p>
 
 **🗡️ TOTK Game File Setup** — der umfassendste deutschsprachige Leitfaden zur Einrichtung der Spieldateien von **The Legend of Zelda: Tears of the Kingdom** auf dem PC über die Emulatoren Ryujinx und Yuzu. Lernen Sie, ROM, Updates, DLCs und Leistungspatches Schritt für Schritt zu installieren. **Völlig kostenlos.** Keine versteckten Gebühren. Keine Abonnements. Keine Registrierung.
